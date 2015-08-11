@@ -3,6 +3,6 @@
 pwd
 echo $PATH
 echo "+===================================================+"
-python --version
+python -m numpy -c "print('Hello!')"
 exit 1
 
